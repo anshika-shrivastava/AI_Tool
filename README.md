@@ -2,7 +2,10 @@
 
 ## How to start the tool locally
 https://github.com/anshika-shrivastava/AI_Tool.git  
-cd AI_Tool
+cd AI_Tool  
+Copy the AITool.pynb file over to collab  
+Run the cell
+
 
 ## Aim
 This repository demonstrates a solution for an AI internship assignment where we integrate a product image (a carpet) seamlessly into AI-generated realistic interior image.
